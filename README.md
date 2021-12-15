@@ -1,0 +1,2 @@
+# CLIPS projekt
+ 
