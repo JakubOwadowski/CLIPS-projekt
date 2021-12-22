@@ -482,7 +482,7 @@
                      
 (defrule answer-Killer-Nun ""
 
-   (logical (start) (age Under.18) (sex Male) (faith Yes))
+   (logical (start) (age Under.18) (sex Male) (faith Yes.))
    
    =>
 
@@ -491,7 +491,7 @@
                      
 (defrule answer-Slaughter-Hotel ""
 
-   (logical (start) (age Under.18) (sex Male) (faith No))
+   (logical (start) (age Under.18) (sex Male) (faith No.))
    
    =>
 
@@ -823,7 +823,7 @@
    (assert (UI-state (display Your.movie.is.The.Human.Centipede)
                      (state final))))  
 
-(defrule answer-Häxan ""
+(defrule answer-HÃ¤xan ""
 
    (logical
    	(start) 
@@ -834,7 +834,7 @@
    
    =>
 
-   (assert (UI-state (display Your.movie.is.Häxan)
+   (assert (UI-state (display Your.movie.is.HÃ¤xan)
                      (state final))))  
 
 (defrule answer-Rosmary's-baby ""
