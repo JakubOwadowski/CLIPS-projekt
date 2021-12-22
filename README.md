@@ -1,3 +1,3 @@
 # CLIPS projekt
-Jakub Owadowki]
-Paweł Matys 
+Jakub Owadowki 145394
+Paweł Matys 145332
